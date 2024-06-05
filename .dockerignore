@@ -1,0 +1,6 @@
+/target
+Cargo.lock
+node_modules
+absentLessons.json
+package-lock.json
+*out.png
